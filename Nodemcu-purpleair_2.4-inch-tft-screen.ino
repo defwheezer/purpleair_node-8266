@@ -70,8 +70,8 @@ Adafruit_ILI9341 tft = Adafruit_ILI9341(TFT_CS, TFT_DC, TFT_RST);
 bool button_state;
 //------- Replace the following! ------
 //-------------------------------------
-char ssid[] = "cow"; // your network SSID (name)
-char password[] = "Noodler1";   // your network password
+char ssid[] = "SSID"; // your network SSID (name)
+char password[] = "password";   // your network password
 
 WiFiClientSecure client;
 
