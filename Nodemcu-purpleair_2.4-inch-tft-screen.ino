@@ -26,7 +26,6 @@
  **********************************************************************/
  
 #include <Wire.h>                  // installed by default
-                                   //check defwheezer: https://www.googleapis.com/youtube/v3/channels?part=statistics&id=UCfa6UutS3fmq8Csju8YQUsw&key=AIzaSyA0VUO5SvWPUTdotdbGHnIrDJEIh6BOgHM
 #include <ArduinoJson.h>           // version: 5.2.0 - https://github.com/bblanchon/ArduinoJson
 
 #include <ESP8266WiFi.h>           // version: 2.3.0
